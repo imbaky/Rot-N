@@ -21,6 +21,7 @@ would be encrypted as:                  **Frpergv Fcnegnanz Phefhf creqrer!**
 because: S+13= F, e+13 = r, c+13 = p, ...
 
 ROT13 is still being used today, but only when weak encryption is necessary 
+
 (e.g. to hide bunch lines in jokes or to hide answers to puzzles).
  
 In the standard ROT13, only the letters are encrypted, other characters such as punctuations or digits are left unchanged.
