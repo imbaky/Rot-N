@@ -14,22 +14,16 @@ For example, the letter ‘A’ would be replaced by ’N’ (because ‘A’+13
 note that the alphabet is considered cyclic, so that once the ‘z’ or ’Z’ have been reached, we start counting back from the letters ‘a’ or ‘A’.
 
 
-For example, using ROT13, the message:
-Secreti Spartanam Cursus perdere!
-would be encrypted as:
-Frpergv Fcnegnanz Phefhf creqrer!
+For example, using ROT13, the message:  Secreti Spartanam Cursus perdere!
+would be encrypted as:                  Frpergv Fcnegnanz Phefhf creqrer!
+
 because: S+13= F, e+13 = r, c+13 = p, ...
-ROT13 is still being used today, but only when weak
-encryption is necessary (e.g. to hide bunch lines
-in jokes or to hide
-answers to puzzles).
-In the standard ROT13, only the letters are encrypt
-ed, other characters such as punctuations or digits
-are left unchanged.
-However several variations exist. In particular, a
-more general version of ROT13 is ROT-n
-where instead of adding 13 to a letter, another value (n) is used. The value of n
-can be a simple integer or a more complex and diffi
-cult to guess function.
+
+ROT13 is still being used today, but only when weak encryption is necessary (e.g. to hide bunch lines in jokes or to hide answers to puzzles).
+
+In the standard ROT13, only the letters are encrypted, other characters such as punctuations or digits are left unchanged.
+However several variations exist. In particular, a more general version of ROT13 is ROT-n where instead of adding 13 to a letter, another value (n) is used. The value of n can be a simple integer or a more complex and difficult to guess function.
+
+
 For example, using ROT5, the sentence: Secreti Spartanam Cursus perdere!
 would be encrypted as:                 Xjhwjyn Xufwyfsfr Hzwxzx ujwijwj! 
