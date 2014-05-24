@@ -15,6 +15,7 @@ note that the alphabet is considered cyclic, so that once the ‘z’ or ’Z’
 
 
 For example, using ROT13, the message:  Secreti Spartanam Cursus perdere!
+
 would be encrypted as:                  Frpergv Fcnegnanz Phefhf creqrer!
 
 because: S+13= F, e+13 = r, c+13 = p, ...
@@ -26,4 +27,5 @@ However several variations exist. In particular, a more general version of ROT13
 
 
 For example, using ROT5, the sentence: Secreti Spartanam Cursus perdere!
+
 would be encrypted as:                 Xjhwjyn Xufwyfsfr Hzwxzx ujwijwj! 
