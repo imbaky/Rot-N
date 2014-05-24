@@ -28,4 +28,4 @@ However several variations exist. In particular, a more general version of ROT13
 
 For example, using ROT5, the sentence: **Secreti Spartanam Cursus perdere!**
 
-would be encrypted as:                 **Xjhwjyn Xufwyfsfr Hzwxzx ujwijwj!**
+would be encrypted as:                  **Xjhwjyn Xufwyfsfr Hzwxzx ujwijwj!**
