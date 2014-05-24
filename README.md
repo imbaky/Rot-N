@@ -14,9 +14,9 @@ For example, the letter ‘A’ would be replaced by ’N’ (because ‘A’+13
 note that the alphabet is considered cyclic, so that once the ‘z’ or ’Z’ have been reached, we start counting back from the letters ‘a’ or ‘A’.
 <br/>
 ```
-For example, using ROT13, the message:  **Secreti Spartanam Cursus perdere!**
+For example, using ROT13, the message:  Secreti Spartanam Cursus perdere!
 
-would be encrypted as:                  **Frpergv Fcnegnanz Phefhf creqrer!**
+would be encrypted as:                  Frpergv Fcnegnanz Phefhf creqrer!
 ```
 because: S+13= F, e+13 = r, c+13 = p, ...
 
@@ -29,9 +29,9 @@ However several variations exist. In particular, a more general version of ROT13
 
 <br/>
 ```
-For example, using ROT5, the sentence: **Secreti Spartanam Cursus perdere!**
+For example, using ROT5, the sentence: Secreti Spartanam Cursus perdere!
 
-would be encrypted as:                  **Xjhwjyn Xufwyfsfr Hzwxzx ujwijwj!**
+would be encrypted as:                 Xjhwjyn Xufwyfsfr Hzwxzx ujwijwj!
 ```
 
 [Wikipedia](http://en.wikipedia.org/wiki/ROT13)
