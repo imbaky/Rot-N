@@ -39,4 +39,4 @@ would be encrypted as:                 Xjhwjyn Xufwyfsfr Hzwxzx ujwijwj!
 
 ###GUI
 
-[Rot-N Program](https://github.com/membug/Rot-N/blob/master/gui.PNG)
+![Rot-N Program](https://github.com/membug/Rot-N/blob/master/gui.PNG)
